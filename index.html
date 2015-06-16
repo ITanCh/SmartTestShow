@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Tree</title>
-		<link href="themes/2/tooltip.css" rel="stylesheet" type="text/css" />
-		<script src="themes/2/tooltip.js" type="text/javascript"></script>
+		<link href="js/tooltip.css" rel="stylesheet" type="text/css" />
+		<script src="js/tooltip.js" type="text/javascript"></script>
 		<style>
 
 
@@ -67,7 +67,7 @@
 			.append("g")
 			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-			d3.json("treemodel.json", function(error, treemodel) {
+			d3.json("model/treemodel.json", function(error, treemodel) {
 
 				root = treemodel;
 				root.x0 = height / 2;
@@ -139,7 +139,7 @@
 				.attr("onmouseover",function(d){
 					var name=d.name;
 					var head="myAjaxSetting.context.index = ";
-					var tail="; tooltip.ajax(this, 'src/products.xml', myAjaxSetting, {position:0});";
+					var tail="; tooltip.ajax(this, 'model/nodes.xml', myAjaxSetting, {position:0});";
 					var all=head+name+tail;
 					//var all="tooltip.pop(this, \'there\')";
 					return all;
@@ -256,12 +256,19 @@
 				};
 
 				function myCallback(response, context) {
-					var x = response.documentElement.getElementsByTagName("cd")[1];
+					var i=context.index;
+					var x = response.documentElement.getElementsByTagName("node")[i];
 					var title = x.getElementsByTagName("title")[0].childNodes[0].nodeValue;
-					var artist = x.getElementsByTagName("artist")[0].childNodes[0].nodeValue;
-					var price = x.getElementsByTagName("price")[0].childNodes[0].nodeValue;
-					var image = "<img src='test_DFS/" + context.index + ".png' style='float:right;margin-left:12px;width:100px;height:175px;' />";
-					return "<div style='width:220px;'>" + image + "<b>" + title + "</b><br /><i>" + artist + "</i><br /><br />Price: <span class='red'>$" + price + "</span></div>";
+					var view = x.getElementsByTagName("view")[0].childNodes[0].nodeValue;
+					var action = x.getElementsByTagName("action")[0].childNodes[0].nodeValue;
+					var from=x.getElementsByTagName("edge")[0].childNodes[0].nodeValue;
+					var image = "<img src='image/" + i + ".png' style='float:right;margin-left:12px;width:100px;height:175px;' />";
+					var result="<div style='width:300px;'>";
+					result+=image + "<b>" + title + "</b><br />";
+					result+="View Count: <span class='red'>" + view + "</span><br />";
+					result+="Action Count: <span class='red'>" + action + "</span><br />";
+					result+="PreActions : <span class='red'>" + from + "</span></div>";
+					return result;
 				}   
 
 			</script>

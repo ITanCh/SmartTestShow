@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>1</view>
+<action>18</action>
+<edge>null</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>1</view>
+<action>16</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (569, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (589, 181)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (569, 531)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (606, 531)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (606, 689)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (606, 847)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.NoticeToLoad_Dialog</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (1, 171)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.Login_dialog_MainActivity</title>
+<view>1</view>
+<action>5</action>
+<edge>Click (39, 638)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.UserForgetPwdActivity</title>
+<view>1</view>
+<action>2</action>
+<edge>Click (61, 919)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.Login_dialog_MainActivity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.UserRegisterActivty</title>
+<view>1</view>
+<action>1</action>
+<edge>Click (509, 919)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.Login_dialog_MainActivity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (385, 638)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.Home_PfglActivity</title>
+<view>1</view>
+<action>5</action>
+<edge>Click (1, 275)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.NoticeToLoad_Dialog</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (1, 483)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>1</view>
+<action>2</action>
+<edge>Click (1, 615)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (71, 672)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (387, 672)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.user.AboutUsActivity</title>
+<view>1</view>
+<action>4</action>
+<edge>Click (1, 719)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.google.android.dialer.extensions.GoogleDialtactsActivity</title>
+<view>3</view>
+<action>17</action>
+<edge>Click (213, 858)
+</edge>
+</node>
+<node>
+<title>com.google.android.dialer.extensions.GoogleDialtactsActivity</title>
+<view>3</view>
+<action>17</action>
+<edge>Click (211, 903)
+</edge>
+</node>
+<node>
+<title>com.android.email.activity.setup.AccountSetupBasics</title>
+<view>3</view>
+<action>3</action>
+<edge>Click (211, 948)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.user.OfflineMapActivity</title>
+<view>1</view>
+<action>2</action>
+<edge>Click (1, 823)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.user.OfflineMapActivity</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (1, 171)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.user.OfflineMapActivity</title>
+<view>2</view>
+<action>2</action>
+<edge>Click (1, 171)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.PopActivity</title>
+<view>1</view>
+<action>10</action>
+<edge>Click (1, 927)
+</edge>
+</node>
+<node>
+<title>com.android.mms.ui.ComposeMessageActivity</title>
+<view>3</view>
+<action>6</action>
+<edge>Click (50, 416)
+</edge>
+</node>
+<node>
+<title>com.google.android.apps.photos.phone.SendContentActivity</title>
+<view>3</view>
+<action>1</action>
+<edge>Click (496, 416)
+</edge>
+</node>
+<node>
+<title>com.google.android.gsf.login.AccountIntroUIActivity</title>
+<view>3</view>
+<action>2</action>
+<edge>Click (50, 616)
+</edge>
+</node>
+<node>
+<title>com.google.android.gsf.login.AccountIntroUIActivity</title>
+<view>3</view>
+<action>2</action>
+<edge>Click (273, 616)
+</edge>
+</node>
+<node>
+<title>com.android.email.activity.setup.AccountSetupBasics</title>
+<view>3</view>
+<action>3</action>
+<edge>Click (50, 816)
+</edge>
+</node>
+<node>
+<title>com.google.android.gsf.login.AccountIntroUIActivity</title>
+<view>3</view>
+<action>2</action>
+<edge>Click (273, 816)
+</edge>
+</node>
+<node>
+<title>com.etao.feimagesearch.FEISImageEditorActivity</title>
+<view>3</view>
+<action>1</action>
+<edge>Click (496, 816)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.Loading1Activity</title>
+<view>1</view>
+<action>0</action>
+<edge>Click (1, 1031)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.LoginMainActivity</title>
+<view>1</view>
+<action>5</action>
+<edge>Click (620, 51)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.UserForgetPwdActivity</title>
+<view>2</view>
+<action>2</action>
+<edge>Click (61, 919)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.UserRegisterActivty</title>
+<view>2</view>
+<action>1</action>
+<edge>Click (509, 919)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.JTJTActivity</title>
+<view>1</view>
+<action>2</action>
+<edge>Click (21, 181)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.JTJTActivity</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (673, 180)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.JTJTActivity</title>
+<view>2</view>
+<action>2</action>
+<edge>Click (1, 180)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_menu_Activity</title>
+<view>1</view>
+<action>5</action>
+<edge>Click (38, 531)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>1</view>
+<action>35</action>
+<edge>Click (31, 398)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_menu_Activity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.LocationSourceActivity</title>
+<view>1</view>
+<action>4</action>
+<edge>Click (676, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>2</view>
+<action>35</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>1</view>
+<action>7</action>
+<edge>Click (385, 430)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_menu_Activity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.LocationSourceActivity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (676, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>2</view>
+<action>35</action>
+<edge>Click (31, 430)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>1</view>
+<action>14</action>
+<edge>Click (68, 524)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>2</view>
+<action>35</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.BuslineActivity</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (676, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>1</view>
+<action>6</action>
+<edge>Click (589, 192)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>1</view>
+<action>8</action>
+<edge>Click (21, 292)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (64, 197)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (64, 326)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (64, 455)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (64, 584)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (64, 713)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (64, 842)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (64, 971)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (227, 1047)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_busstationresult_Activity</title>
+<view>1</view>
+<action>8</action>
+<edge>Click (21, 360)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_busstationresult_Activity</title>
+<view>1</view>
+<action>9</action>
+<edge>Click (21, 520)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 171)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 458)
+</edge>
+</node>
+<node>
+<title>Error:</title>
+<view>3</view>
+<action>1</action>
+<edge>Click (516, 657)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 745)
+</edge>
+</node>
+<node>
+<title>Error:</title>
+<view>3</view>
+<action>1</action>
+<edge>Click (516, 944)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 1032)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_busstationresult_Activity</title>
+<view>2</view>
+<action>9</action>
+<edge>Click (21, 680)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_busstationresult_Activity</title>
+<view>2</view>
+<action>9</action>
+<edge>Click (21, 840)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_busstationresult_Activity</title>
+<view>2</view>
+<action>9</action>
+<edge>Click (21, 1000)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>1</view>
+<action>7</action>
+<edge>Click (385, 1075)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>2</view>
+<action>35</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.BuslineActivity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (676, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.naoling.DaozhanTXActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (589, 192)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (1, 1075)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (226, 524)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (384, 524)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (542, 524)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (68, 610)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (226, 610)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (384, 610)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (542, 610)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (68, 696)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (226, 696)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (384, 696)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (542, 696)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (68, 782)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (226, 782)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (384, 782)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (542, 782)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (68, 868)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (226, 868)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (384, 868)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (542, 868)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (68, 954)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (226, 954)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (384, 954)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (542, 954)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (68, 1040)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (226, 1040)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (384, 1040)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.HomeSsgj_ArriveInfo</title>
+<view>2</view>
+<action>14</action>
+<edge>Click (542, 1040)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>1</view>
+<action>5</action>
+<edge>Click (395, 398)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_menu_Activity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.LocationSourceActivity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (676, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>1</view>
+<action>7</action>
+<edge>Click (31, 688)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_menu_Activity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.LocationSourceActivity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (676, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>1</view>
+<action>5</action>
+<edge>Click (395, 688)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_menu_Activity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.LocationSourceActivity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (676, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>1</view>
+<action>6</action>
+<edge>Click (264, 213)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_menu_Activity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.LocationSourceActivity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (676, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (23, 213)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Frag_Ssgj_Activity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (505, 213)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssgj.Ssgj_busstationresult_Activity</title>
+<view>2</view>
+<action>9</action>
+<edge>Click (21, 281)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.JTJTActivity</title>
+<view>2</view>
+<action>2</action>
+<edge>Click (211, 531)
+</edge>
+</node>
+<node>
+<title>
+</title>
+<view>3</view>
+<action>0</action>
+<edge>Click (384, 531)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.cxgh.GongGjtActivity</title>
+<view>1</view>
+<action>6</action>
+<edge>Click (557, 531)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.MarkerActivity1</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (689, 81)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.cxgh.GongGjtActivity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.MarkerActivity</title>
+<view>1</view>
+<action>4</action>
+<edge>Click (38, 689)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.ShipinListActivity2</title>
+<view>1</view>
+<action>7</action>
+<edge>Click (659, 291)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.MarkerActivity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.ShipinListActivity2</title>
+<view>1</view>
+<action>7</action>
+<edge>Click (705, 180)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.MarkerActivity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.ShipinListActivity2</title>
+<view>2</view>
+<action>7</action>
+<edge>Click (1, 180)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.IfLoginActivity</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (1, 305)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.LoginMainActivity</title>
+<view>2</view>
+<action>5</action>
+<edge>Click (155, 666)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.ShipinListActivity2</title>
+<view>2</view>
+<action>7</action>
+<edge>Click (395, 666)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.IfLoginActivity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (1, 441)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.IfLoginActivity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (1, 519)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.IfLoginActivity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (1, 597)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.sjlk.IfLoginActivity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (1, 675)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>1</view>
+<action>16</action>
+<edge>Click (211, 689)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>1</view>
+<action>10</action>
+<edge>Click (291, 189)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (132, 189)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>1</view>
+<action>8</action>
+<edge>Click (450, 189)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (132, 189)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>2</view>
+<action>10</action>
+<edge>Click (291, 189)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.NoticeToLoad_Dialog</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (609, 197)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.NoticeToLoad_Dialog</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (609, 197)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_upload_Activity</title>
+<view>1</view>
+<action>2</action>
+<edge>Click (71, 561)
+</edge>
+</node>
+<node>
+<title>com.android.camera.CameraActivity</title>
+<view>3</view>
+<action>4</action>
+<edge>Click (71, 622)
+</edge>
+</node>
+<node>
+<title>com.android.internal.app.ResolverActivity</title>
+<view>3</view>
+<action>4</action>
+<edge>Click (387, 622)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>2</view>
+<action>8</action>
+<edge>Click (450, 189)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.NoticeToLoad_Dialog</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (609, 197)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_commentinfo_Activity</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (15, 519)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_commentinfo_Activity</title>
+<view>1</view>
+<action>2</action>
+<edge>Click (1, 1105)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_commentinfo_Activity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (39, 423)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_commentinfo_Activity</title>
+<view>1</view>
+<action>2</action>
+<edge>Click (15, 841)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_MainActivity</title>
+<view>2</view>
+<action>16</action>
+<edge>Click (1, 72)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.ssjb.GZHD_commentinfo_Activity</title>
+<view>2</view>
+<action>2</action>
+<edge>Click (1, 1105)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.xwgg.NewsNotice_Activity</title>
+<view>1</view>
+<action>18</action>
+<edge>Click (384, 689)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.xwgg.NewsNotice_Activity</title>
+<view>1</view>
+<action>9</action>
+<edge>Click (1, 51)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.map.BasicMapActivity</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (557, 689)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.NoticeToLoad_Dialog</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (38, 847)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.swzl.LostProperty_NoPermitActivity</title>
+<view>1</view>
+<action>2</action>
+<edge>Click (211, 847)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.swzl.LostProperty_NoPermitActivity</title>
+<view>1</view>
+<action>8</action>
+<edge>Click (41, 429)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.swzl.LostProterty_DetailActivity</title>
+<view>1</view>
+<action>1</action>
+<edge>Click (43, 511)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.swzl.LostProperty_NoPermitActivity</title>
+<view>2</view>
+<action>8</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.swzl.LostProterty_DetailActivity</title>
+<view>2</view>
+<action>1</action>
+<edge>Click (43, 675)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.swzl.LostProterty_DetailActivity</title>
+<view>2</view>
+<action>1</action>
+<edge>Click (43, 839)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.swzl.LostProterty_DetailActivity</title>
+<view>2</view>
+<action>1</action>
+<edge>Click (43, 1003)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.swzl.LostProterty_DetailActivity</title>
+<view>2</view>
+<action>1</action>
+<edge>Click (43, 1167)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Ssgj_skbmenu_Activity</title>
+<view>1</view>
+<action>4</action>
+<edge>Click (384, 847)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>1</view>
+<action>10</action>
+<edge>Click (21, 316)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Ssgj_skbmenu_Activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_query_activity</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (21, 478)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>2</view>
+<action>10</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_query_activity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (21, 614)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_query_activity</title>
+<view>1</view>
+<action>4</action>
+<edge>Click (21, 692)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>2</view>
+<action>10</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_query_activity</title>
+<view>1</view>
+<action>7</action>
+<edge>Click (21, 828)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>2</view>
+<action>10</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_query_activity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (21, 906)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (21, 984)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (21, 1062)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (21, 1140)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>1</view>
+<action>9</action>
+<edge>Click (21, 564)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Ssgj_skbmenu_Activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Skb_huoche_query_activity</title>
+<view>1</view>
+<action>4</action>
+<edge>Click (21, 478)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>2</view>
+<action>9</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Huoche_detail_atcivity</title>
+<view>1</view>
+<action>13</action>
+<edge>Click (3, 173)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Skb_huoche_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Huoche_detail_atcivity</title>
+<view>2</view>
+<action>13</action>
+<edge>Click (3, 277)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Skb_huoche_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (21, 614)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Skb_huoche_query_activity</title>
+<view>1</view>
+<action>6</action>
+<edge>Click (21, 692)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>2</view>
+<action>9</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Skb_huoche_query_activity</title>
+<view>1</view>
+<action>3</action>
+<edge>Click (21, 828)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>2</view>
+<action>9</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Huoche_detail_atcivity</title>
+<view>2</view>
+<action>13</action>
+<edge>Click (3, 173)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Skb_huoche_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (21, 906)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Skb_huoche_query_activity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (21, 1042)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.huoche.Skb_huoche_query_activity</title>
+<view>2</view>
+<action>3</action>
+<edge>Click (21, 1120)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>1</view>
+<action>8</action>
+<edge>Click (21, 812)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Ssgj_skbmenu_Activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.feiji.Skb_feiji_query_activity</title>
+<view>1</view>
+<action>6</action>
+<edge>Click (21, 478)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>2</view>
+<action>8</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.feiji.Skb_feiji_query_activity</title>
+<view>1</view>
+<action>4</action>
+<edge>Click (21, 614)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.Skb_qiche_activity2</title>
+<view>2</view>
+<action>8</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.feiji.Skb_feiji_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (21, 750)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.feiji.Skb_feiji_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (21, 828)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.feiji.Skb_feiji_query_activity</title>
+<view>2</view>
+<action>6</action>
+<edge>Click (21, 964)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.skb.feiji.Skb_feiji_query_activity</title>
+<view>2</view>
+<action>4</action>
+<edge>Click (21, 1100)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.homepage.NewAddActivity</title>
+<view>1</view>
+<action>4</action>
+<edge>Click (557, 847)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (1, 84)
+</edge>
+</node>
+<node>
+<title>com.cvicse.zhnt.HomePageActivityNew</title>
+<view>2</view>
+<action>18</action>
+<edge>Click (669, 84)
+</edge>
+</node>
+</catalog>
